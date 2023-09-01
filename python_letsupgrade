@@ -1,0 +1,11 @@
+a= int(input("Enter the number for a = "))
+b= int(input("Enter the number for b = "))
+
+print("floor division = ",a//b)
+print("a power b = ",a**b)
+
+print("Both a and b are equal is :")
+if (a==b):
+    print("True")
+else:
+    print("False")
